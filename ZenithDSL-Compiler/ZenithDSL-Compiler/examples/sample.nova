@@ -1,0 +1,6 @@
+
+func main() {
+    let x = 10;
+    print(x);
+    return 0;
+}
