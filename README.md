@@ -1,11 +1,11 @@
 # DS_COMPILER-DESIGN-RA2311026050276
-NovaDSL Compiler
+ZenithDSL Compiler
 
 An LLVM-based End-to-End Compiler for a Custom Domain-Specific Language (DSL) designed with a complete compilation pipeline from source code to native executable generation.
 
 Project Overview
 
-NovaDSL Compiler is a modular compiler implementation that demonstrates the complete workflow of modern compiler construction using LLVM infrastructure. The project converts custom DSL source code into LLVM Intermediate Representation (IR) and further generates native executable code using the LLVM llc backend.
+ZenithDSL Compiler is a modular compiler implementation that demonstrates the complete workflow of modern compiler construction using LLVM infrastructure. The project converts custom DSL source code into LLVM Intermediate Representation (IR) and further generates native executable code using the LLVM llc backend.
 
 This project is developed for:
 
@@ -27,7 +27,7 @@ Professional Repository Structure
 Easy Extension for Future Features
 
 Compiler Architecture
-Source Code (.nova)
+Source Code (.Zenith)
         ↓
 Lexer
         ↓
@@ -79,9 +79,9 @@ NovaDSL-Compiler/
 └── .gitignore
 
 Build Instructions
-git clone https://github.com/your-username/NovaDSL-Compiler.git
+git clone https://github.com/Cheran10s/DS_COMPILER-DESIGN-RA2311026050276
 
-cd NovaDSL-Compiler
+cd ZenithDSL-Compiler
 
 mkdir build
 cd build
